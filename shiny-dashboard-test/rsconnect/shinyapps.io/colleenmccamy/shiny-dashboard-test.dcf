@@ -1,0 +1,11 @@
+name: shiny-dashboard-test
+title:
+username:
+account: colleenmccamy
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 8151314
+bundleId: 6782025
+url: https://colleenmccamy.shinyapps.io/shiny-dashboard-test/
+when: 1674848194.57754
+lastSyncTime: 1674848194.57755
